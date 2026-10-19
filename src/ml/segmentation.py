@@ -1,4 +1,5 @@
 """Customer segmentation with Spark MLlib (StandardScaler + KMeans)."""
+
 from typing import Dict, List, Tuple
 
 from pyspark.ml import Pipeline, PipelineModel
