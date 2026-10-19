@@ -1,4 +1,5 @@
-"""Generate a synthetic, deliberately *messy* e-commerce dataset.
+"""
+Generate a synthetic, deliberately *messy* e-commerce dataset.
 
 Injected data-quality problems (to give the ETL something real to fix):
   - duplicate order rows
