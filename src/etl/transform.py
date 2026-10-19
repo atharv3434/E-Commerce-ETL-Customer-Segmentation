@@ -1,4 +1,5 @@
-"""TRANSFORM: cleaning, validation, enrichment and feature engineering.
+"""
+TRANSFORM: cleaning, validation, enrichment and feature engineering.
 
 Every function is pure (DataFrame in -> DataFrame out) so it can be unit-tested.
 Note: Spark 4 runs in ANSI mode by default, where a bad CAST raises an error.
