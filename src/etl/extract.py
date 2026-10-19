@@ -1,4 +1,5 @@
-"""EXTRACT: read raw sources with explicit schemas (no schema inference).
+"""
+EXTRACT: read raw sources with explicit schemas (no schema inference).
 
 Orders are read with every column as STRING on purpose: the raw feed contains
 values like "two" in numeric columns, and we want to parse them ourselves so
