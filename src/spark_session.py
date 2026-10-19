@@ -1,4 +1,5 @@
 """SparkSession factory."""
+
 from pyspark.sql import SparkSession
 
 
