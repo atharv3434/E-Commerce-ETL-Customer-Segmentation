@@ -1,4 +1,5 @@
 """Read the loaded warehouse back and draw charts (proves the LOAD stage is queryable)."""
+
 import sqlite3
 import sys
 from pathlib import Path
