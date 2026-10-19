@@ -1,4 +1,5 @@
-"""LOAD: write curated data to the warehouse layer.
+"""
+LOAD: write curated data to the warehouse layer.
 
 - Parquet (columnar, compressed, schema-embedded) is the primary lake format.
   The large fact table is partitioned by year_month so queries filtering on
