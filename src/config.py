@@ -1,4 +1,5 @@
 """Central configuration for paths and pipeline parameters."""
+
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
